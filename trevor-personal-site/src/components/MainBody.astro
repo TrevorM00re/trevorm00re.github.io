@@ -1,0 +1,15 @@
+---
+import Nav from "../components/Nav.astro";
+import Footer from "./Footer.astro";
+---
+
+<body class="bg-base text-contrast">
+  <header class="py-6 bg-base">
+    <Nav />
+  </header>
+  <main class="max-w-[1200px] mx-auto px-8">
+    <slot />
+  </main>
+  <footer class="py-12 px-8 max-w-[1200px] mx-auto">
+  </footer>
+</body>
