@@ -3,7 +3,7 @@ layout: ../../layouts/Work.astro
 title: UMD Loop
 description:
 published: 12/28/2023
-year: 2022-2023
+year: 2022-2025
 logo: /images/umdloop.png
 ---
 

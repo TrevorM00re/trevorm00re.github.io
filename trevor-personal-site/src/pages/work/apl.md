@@ -3,8 +3,8 @@ layout: ../../layouts/Work.astro
 title: Johns Hopkins University Applied Physics Lab
 description:
 published: 9/17/24
-logo: /images/JHUAPL_LOGO.png
-year: 2022-Present
+logo: /images/apl.png
+year: 2023-2024
 ---
 
 ## Mission Overview
