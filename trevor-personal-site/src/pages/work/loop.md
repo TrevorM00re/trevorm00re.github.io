@@ -8,11 +8,15 @@ logo: /images/umdloop.png
 ---
 
 ## University Rover Challenge 2025 — President & Chief Mechanical Engineer
-**Sept. 2022– May. 2025**
 
 - Directed all technical operations including mechanical, software, and electrical design, assembly, and testing, ensuring full system integration and performance across all subsystems.
 - Led and managed a team of 50+ students; coordinated sponsor outreach, faculty and organizational communication, budgeting with the Aerospace Department, and internal recruiting and event planning.
 
+![UMD Loop Rover 2025](/images/rover25.jpg)
+
+![UMD Loop Rover 2025](/images/rover25-1.jpg)
+
+[UMD Loop Rover 2025 SAR Video](<https://youtu.be/v65-nOE8YXU?si=zJcQKluh1pI4tkwH>)
 
 ## University Rover Challenge 2024 — Robotic Arm Lead
 - Led undergraduate team of 8 in the full design and integration of a custom 5-DOF robotic arm, including cycloidal gearbox, parallel and linear grippers, structural components, and an analog/digital control panel.
@@ -32,3 +36,4 @@ logo: /images/umdloop.png
 - Determined temperature, volumetric flow, and pressure changes across motors, pumps, heat exchangers, hydraulic cylinders, and valves and documented on P&ID diagrams for Final Design Proposal.
 - Designed hydraulic manifold for excavation subsystem involving 3 hydraulic motors.
 
+![Boring](/images/boring.jpg)
