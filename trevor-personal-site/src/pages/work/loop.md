@@ -32,8 +32,9 @@ logo: /images/umdloop.png
 ## Maryland Day System Demonstration 2023 — Hydraulics & Thermal Lead
 - Refurbished hoses, ground station containment box, valves, quick disconnects, onboard/flow divider mounting.
 
+![Boring](/images/boring.jpg)
+
 ## Not-a-Boring Competition 2023 — Hydraulics & Thermal Member
 - Determined temperature, volumetric flow, and pressure changes across motors, pumps, heat exchangers, hydraulic cylinders, and valves and documented on P&ID diagrams for Final Design Proposal.
 - Designed hydraulic manifold for excavation subsystem involving 3 hydraulic motors.
 
-![Boring](/images/boring.jpg)
